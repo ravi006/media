@@ -1,0 +1,24 @@
+{"index": {"_index": "afiremedia", "_type": "bands"}}
+{"bandname": "Green Day", "band_type": ["Punk rock", "Pop punk", "Alternative rock", "Melody"], "members": ["Billie Joe Armstrong", "Tré Cool, Mike Dirnt", "Jason White", "Raj Punjabi", "John Kiffmeyer", "Dave Henwood", "Sean Hughes"], "albums": ["Revolution Radio", "21st Century Breakdown", "American Idiot", "Warning"], "description": "Green Day is an American punk rock band formed in 1986 by lead vocalist and guitarist Billie Joe Armstrong and bassist Mike Dirnt."}
+{"index": {"_index": "afiremedia", "_type": "bands"}}
+{"bandname": "Linkin Park", "band_type": ["Alternative rock", "Nu metal", "Alternative metal", "Rap rock", "Electronics in rock music"], "members": ["Chester Bennington", "Mike Shinoda", "Joe Hahn"], "albums": ["Meteora", "The Hunting Party", "Hybrid Theory"], "description": "Linkin Park is an American rock band from Agoura Hills, California. Formed in 1996, the band rose to international fame with their debut album Hybrid Theory (2000), which was certified Diamond by the RIAA in 2005 and multi-Platinum in several other countries"}
+{"index": {"_index": "afiremedia", "_type": "bands"}}
+{"bandname": "AC/DC", "band_type": ["Hard rock", "Blues rock", "Rock and roll"], "members": ["Axl Rose", "Brian Johnson", "Angus Young", "Bon Scott", "Malcolm Young"], "albums": ["Black Ice", "AC/DC Live", "The Razors Edge", "Powerage"], "description": "AC/DC are an Australian rock band, formed in 1973 by brothers Malcolm and Angus Young. A hard rock/blues rock band, they have also been considered a heavy metal band, although they have always dubbed their music simply 'rock and roll'"}
+{"index": {"_index": "afiremedia", "_type": "bands"}}
+{"bandname": "Take That", "band_type": ["Pop"], "members": ["Gary Barlow, Mark Owen", "Howard Donald", "Robbie Williams", "Jason Orange"], "albums": ["Progressed ", "III", "Wonderland: Deluxe Edition", "The Circus Live"], "description": "Take That are an English pop music group formed in Manchester, England in 1990. The group currently consists of Gary Barlow, Howard Donald and Mark Owen. The original line-up also featured Jason Orange and Robbie Williams."}
+{"index": {"_index": "afiremedia", "_type": "bands"}}
+{"bandname": "Rammstein", "band_type": ["Neue Deutsche Härte, "Nu metal", "Hard rock", "Industrial Metal"], "members": ["Till Lindemann", "Richard Z. Kruspe", "Christian Lorenz", "Christoph Schneider", "Paul Landers", "Oliver Riedel"], "albums": ["Liebe ist für alle da"], "description": "Rammstein is a German industrial metal band, formed in 1994 in Berlin. Throughout its existence, Rammstein's six-man lineup has remained unchanged—singer Till Lindemann, guitarists Richard Z."}
+{"index": {"_index": "afiremedia", "_type": "bands"}}
+{"bandname": "Artcell", "band_type": ["Progressive metal", "Progressive rock"], "members": ["Lincoln", "Shaju", "Cézanne"], "albums": ["Onno Shomoy", "Oniket Prantor"], "description": "Artcell is a Bangladeshi progressive metal band formed in October 1999. According to The Daily Star, a leading English national daily, Artcell is 'one of the leading bands of the country'"}
+{"index": {"_index": "afiremedia", "_type": "youtube"}}
+{"bandname": "Green Day", "subscribers": 2147250 , "views": 1319647320, "joined": "Oct 13, 2005"}
+{"index": {"_index": "afiremedia", "_type": "youtube"}}
+{"bandname": "Linkin Park", "subscribers": 8639736 , "views": 3,829,379,582, "joined": "Nov 28, 2006"}
+{"index": {"_index": "afiremedia", "_type": "youtube"}}
+{"bandname": "AC/DC", "subscribers": 2521979, "views": 1903938188, "joined": "Sep 2, 2009"}
+{"index": {"_index": "afiremedia", "_type": "youtube"}}
+{"bandname": "Take That", "subscribers": 13333, "views": 4599929 , "joined": "Mar 2, 2006"}
+{"index": {"_index": "afiremedia", "_type": "youtube"}}
+{"bandname": "Rammstein", "subscribers": 1314878, "views": 729343711 , "joined": "Jun 24, 2015"}
+{"index": {"_index": "afiremedia", "_type": "youtube"}}
+{"bandname": "Artcell", "subscribers": 3670, "views": 231033 , "joined": "Jul 1, 2016"}

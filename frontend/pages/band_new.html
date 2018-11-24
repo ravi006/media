@@ -1,0 +1,54 @@
+<h1>Insert New Band</h1>
+
+<form novalidate="novalidate" class="form-horizontal">
+    <div class="control-group">
+        <label class="control-label" for="bandname">Band name:</label>
+        <div class="controls">
+            <input type="text" class="form-control" id="bandname" ng-model="band.name"/>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="band_type">Bnad Type:</label>
+        <div class="controls">
+            <input type="text" class="form-control" id="band_type" ng-model="beer.band_type"/>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="members">Members:</label>
+        <div class="controls">
+            <input type="text" class="form-control" id="members" ng-model="band.members"/>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label" for="albums">Albums:</label>
+        <div class="controls">
+            <input type="text" class="form-control" id="albums" ng-model="band.albums"/>
+        </div>
+    </div>
+    <!--
+    <div class="control-group">
+        <label class="control-label" for="youtubelist">Albums:</label>
+        <div class="controls">
+            <label ng-repeat="youtube in youtubelist">
+            <input type="checkbox" name="youtubelist[]" id="youtubelist_{{youtube.name}}" ng-model="youtube.checked" value="{{youtube.name}}"> {{youtube.name}}
+            </label>
+        </div>
+    </div>
+    -->
+    <div class="control-group">
+        <label class="control-label" for="description">Description:</label>
+        <div class="controls">
+            <textarea id="description" class="form-control" ng-model="band.description" rows="5"></textarea>
+        </div>
+    </div>
+    <div class="control-group" style="margin-top: 30px;">
+        <div class="controls">
+<!-- 
+            <a ng-click="updateUser()" class="btn btn-small btn-primary">update user</a>
+-->
+
+            <a ng-click="insertBeer()" class="btn btn-small btn-primary">Save</a>
+            <a ng-click="cancel()" class="btn btn-small">Cancel</a>
+        </div>
+    </div>
+</form>

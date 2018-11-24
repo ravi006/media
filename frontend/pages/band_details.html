@@ -1,0 +1,61 @@
+<div layout="row" layout-align="start start" >
+      <img ng-src="pages/images/{{band.bandname.replace(' ', '').replace('/', '')}}.png" height="150px" width="150px" >
+</div>
+<div layout="row" layout-align="end start" >
+    <table class="table">
+        <thead>
+        <tr>
+            <th style="width: 150px;"> </th>
+            <th style="min-width: 80px;"> </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Subscribers:</td>
+            <td> {{youtube.subscribers}}</td>
+        </tr>
+        <tr>
+            <td>Views:</td>
+            <td>{{youtube.views}}</td>
+        </tr>
+        <tr>
+            <td>Joined:</td>
+            <td>{{youtube.joined}</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<h1>{{band.bandname}}</h1>
+
+<table class="table table-striped table-condensed">
+    <thead>
+    <tr>
+        <th style="width: 150px;"> </th>
+        <th style="min-width: 80px;"> </th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Band Type:</td>
+        <td> {{band.band_type.join(', ')}}</td>
+    </tr>
+    <tr>
+        <td>Members:</td>
+        <td>{{band.members.join(', ')}}%</td>
+    </tr>
+    <tr>
+        <td>Albums:</td>
+        <td>{{band.albums.join(', ')}}</td>
+    </tr>
+    <tr>
+        <td>Description:</td>
+        <td>{{band.description}}</td>
+    </tr>
+        
+    </tbody>
+</table>
+
+<a href="#/afiremedia" class="btn btn-small btn-primary">Go to Search</a>
+<a href="#/afiremedia/bands" class="btn btn-small btn-primary">See All Bands</a>
+<a href="#/afiremedia/newBand" class="btn btn-small btn-primary">Insert New Band</a>
